@@ -1,0 +1,19 @@
+# 凭证：绝不提交
+.env
+*.token
+token.txt
+
+# 运行时产物
+watchlist.json
+report.html
+*report*.html
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
